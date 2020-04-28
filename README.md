@@ -1,0 +1,1 @@
+# vagrant-guest-plugin-example
